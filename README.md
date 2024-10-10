@@ -1,2 +1,2 @@
 # e2e-webapp-project
-End to end web application project to experiment with NextJS static app deployed to AWS S3 and Cloudwatch for monitoring. 
+End to end web application project to experiment with NextJS static app on AWS S3, CDK deployment, AWS Cloudwatch and AWS Synthetics. 
