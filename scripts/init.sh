@@ -1,3 +1,3 @@
 #!/bin/bash
 
-npm install react@latest react-dom@latest next@latest
+npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm
